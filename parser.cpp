@@ -12,6 +12,7 @@
 
 #include <iostream>
 #include <vector>
+#include <queue>
 #include <set>
 #include <map>
 #include <fstream>
